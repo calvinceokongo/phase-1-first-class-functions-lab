@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-08-21T09:55:14.253Z",
-    "end": "2022-08-21T09:55:14.761Z",
-    "duration": 508
+    "start": "2022-08-24T18:22:30.808Z",
+    "end": "2022-08-24T18:22:34.274Z",
+    "duration": 3466
   },
   "tests": [
     {
@@ -48,7 +48,7 @@
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,14 +69,14 @@
     {
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -143,7 +143,7 @@
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -164,14 +164,14 @@
     {
       "title": "doubles fares",
       "fullTitle": "index.js fareDoubler() doubles fares",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
